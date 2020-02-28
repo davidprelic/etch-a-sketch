@@ -1,4 +1,17 @@
 
-body {
+.container {
+   position: relative;
+   top: 20px;
+}
+
+.item {
+   border: 1px solid black;
+}
+
+#buttons {
+   text-align: center;
+}
+
+.changeColor {
    background-color: blue;
 }
